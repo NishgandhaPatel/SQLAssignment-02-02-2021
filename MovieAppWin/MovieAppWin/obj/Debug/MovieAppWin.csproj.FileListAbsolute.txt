@@ -1,0 +1,10 @@
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\MovieAppWin\MovieAppWin\bin\Debug\MovieAppWin.exe.config
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\MovieAppWin\MovieAppWin\bin\Debug\MovieAppWin.exe
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\MovieAppWin\MovieAppWin\bin\Debug\MovieAppWin.pdb
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\MovieAppWin\MovieAppWin\obj\Debug\MovieAppWin.csprojAssemblyReference.cache
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\MovieAppWin\MovieAppWin\obj\Debug\MovieAppWin.Properties.Resources.resources
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\MovieAppWin\MovieAppWin\obj\Debug\MovieAppWin.csproj.GenerateResource.cache
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\MovieAppWin\MovieAppWin\obj\Debug\MovieAppWin.csproj.CoreCompileInputs.cache
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\MovieAppWin\MovieAppWin\obj\Debug\MovieAppWin.exe
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\MovieAppWin\MovieAppWin\obj\Debug\MovieAppWin.pdb
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\MovieAppWin\MovieAppWin\obj\Debug\MovieAppWin.Form1.resources

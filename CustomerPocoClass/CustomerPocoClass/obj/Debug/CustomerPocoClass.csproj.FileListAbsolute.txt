@@ -1,0 +1,7 @@
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\CustomerPocoClass\CustomerPocoClass\bin\Debug\CustomerPocoClass.exe.config
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\CustomerPocoClass\CustomerPocoClass\bin\Debug\CustomerPocoClass.exe
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\CustomerPocoClass\CustomerPocoClass\bin\Debug\CustomerPocoClass.pdb
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\CustomerPocoClass\CustomerPocoClass\obj\Debug\CustomerPocoClass.csprojAssemblyReference.cache
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\CustomerPocoClass\CustomerPocoClass\obj\Debug\CustomerPocoClass.csproj.CoreCompileInputs.cache
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\CustomerPocoClass\CustomerPocoClass\obj\Debug\CustomerPocoClass.exe
+F:\DotNetBatch2021\SQLServerAssignments\SQLAssignment-02-02-2021\CustomerPocoClass\CustomerPocoClass\obj\Debug\CustomerPocoClass.pdb
